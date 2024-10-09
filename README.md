@@ -1,5 +1,6 @@
-title: Quick check Airdrop 5
-
+---
+Quick check Airdrop 5
+---
 See the [list of addresses and allocation amounts](https://github.com/ethereum-optimism/op-analytics/blob/main/reference_data/address_lists/op_airdrop_5_simple_list.csv).
 
 This Python script compares wallet addresses from wallets.txt with records from optimism.csv.
